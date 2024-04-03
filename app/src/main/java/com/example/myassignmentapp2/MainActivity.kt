@@ -1,4 +1,5 @@
 package com.example.myassignmentapp2
+//this is the name of the app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -20,7 +21,9 @@ class MainActivity : AppCompatActivity() {
         val textEntered = findViewById<EditText>(R.id.textEntered)
         val check_name_button = findViewById<Button>(R.id.check_name_button)
         val clearButton = findViewById<Button>(R.id.clearButton)
+        //top 4 colums are declerations for the components added in the user interface
         clearButton.setOnClickListener{textEntered.text.clear()}
+        //instruction for button to clear the input(ed) text
 
 
 
@@ -29,8 +32,11 @@ class MainActivity : AppCompatActivity() {
 
         check_name_button.setOnClickListener{
             val textEntered= textEntered.text.toString()
+            //instruction for button to generate history
 
 
+
+            //all the code below is the display of an If/Else statement.
              if (textEntered == "20"){
                 result.text = "Heath Legder(died 22 Jan 2008) was an Australian actor known from his most famous role as TheJoker."
             }

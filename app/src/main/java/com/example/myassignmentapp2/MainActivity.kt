@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         val textEntered = findViewById<EditText>(R.id.textEntered)
         val check_name_button = findViewById<Button>(R.id.check_name_button)
         val clearButton = findViewById<Button>(R.id.clearButton)
-        //top 4 colums are declerations for the components added in the user interface
+        //top 3 LINES OF CODE are declerations for the components added in the user interface
         clearButton.setOnClickListener{textEntered.text.clear()}
         //instruction for button to clear the input(ed) text
 
@@ -32,7 +32,8 @@ class MainActivity : AppCompatActivity() {
 
         check_name_button.setOnClickListener{
             val textEntered= textEntered.text.toString()
-            //instruction for button to generate history
+            /* The code above is code that basically instructs
+            the button to clear whatever text is written*/
 
 
 
@@ -255,6 +256,8 @@ class MainActivity : AppCompatActivity() {
             else {
                     result.text = "There is no historical figure "
                 }
+            /* this is the end of the
+            if/else staement*/
 
 
 

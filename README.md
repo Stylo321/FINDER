@@ -29,8 +29,7 @@ In conclusion, this app was very challenging at first but as I progressed and wo
 
 
 REFERENCE LIST
-Kotlin if Statements in Android - Pete Grapentien.2018. YouTube video,added by Pete Grapentein.[Online].Available at https://youtu.be/2qtr4
-1p5bdY?si=D7clhBEJcHQd-Rne[Accessed 25 March 2024]
+Kotlin if Statements in Android - Pete Grapentien.2018. YouTube video,added by Pete Grapentein.[Online].Available at https://youtu.be/2qtr41p5bdY?si=D7clhBEJcHQd-Rne[Accessed 25 March 2024]
  
 
-09-Kotlin for beginners:Add Comments - Code Kotlin.2017.YouTube video,added by Code Kotlin.[Online].Available at /https://youtu.be/ht-5C-G_X91?si=VEQfmmYN7c045yfk[Accessed 25 March 2024]
+09-Kotlin for beginners:Add Comments - Code Kotlin.2017.YouTube video,added by Code Kotlin.[Online].Available at /https://youtu.be/ht-5C-G_X91?si=VEQfmmYN7c045yfk [Accessed 25 March 2024]

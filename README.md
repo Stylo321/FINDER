@@ -27,7 +27,8 @@ Else (InputID ==  “”) {
 In conclusion, this app was very challenging at first but as I progressed and worked though the assignment I realized that I know more than I thought I knew and the assignment became easier as I was doing it. Most applications done in class were very helpful because if it wasn’t for those class activities that were done in class it would have been difficult or me to figure out what code is required.
 
 
-
+MY YOUTUBE LINK
+- https://youtu.be/0B2fn3EZisA?si=zFUccNG1S6wZdhle
 REFERENCE LIST
 Kotlin if Statements in Android - Pete Grapentien.2018. YouTube video,added by Pete Grapentein.[Online].Available at https://youtu.be/2qtr41p5bdY?si=D7clhBEJcHQd-Rne[Accessed 25 March 2024]
  

@@ -26,6 +26,8 @@ Else (InputID ==  “”) {
 }
 In conclusion, this app was very challenging at first but as I progressed and worked though the assignment I realized that I know more than I thought I knew and the assignment became easier as I was doing it. Most applications done in class were very helpful because if it wasn’t for those class activities that were done in class it would have been difficult or me to figure out what code is required.
 
+MY SCREENSHOT OF MY USER INTERFACE
+![Screenshot (4)](https://github.com/Stylo321/FINDER/assets/165194260/0c742817-8c70-46fa-b40b-fb54bb605ece)
 
 MY YOUTUBE LINK
 - https://youtu.be/0B2fn3EZisA?si=zFUccNG1S6wZdhle
